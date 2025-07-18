@@ -91,3 +91,5 @@ if st.button("Translate"):
                 loop.close()
     else:
         st.warning("Please enter some text first.")
+
+
